@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,7 @@
 <body>
     <center><h1>SELAMAT DATANG DI BIODATA</h1></center>
     <center><a href="<?= base_url('Admin/tambah_data')?>">input data</a></center>
-<table border="1" width="50%" align="center">
+<table border="1" width="50%" align="center"> 
     <tr>
         <td>Nama</td>        
         <td>:</td>        
